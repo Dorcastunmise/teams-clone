@@ -29,6 +29,6 @@ function TheirMessage({ lastMessage, message }) {
                 )}      
           </div>
   );
-};
+}
 
 export default TheirMessage;
