@@ -192,16 +192,12 @@
   cursor: pointer;
 }
 
-.send-icon {
-  top: 1px;
-  position: relative;
-  transform: rotate(-90deg);
-}
-
-.picture-icon {
-  top: 1px;
-  position: relative;
-  font-size: 14px;
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
 }
 
 /* FORM STYLES */
